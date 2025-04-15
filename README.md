@@ -15,8 +15,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/yourusername/String.git
-cd 
+git clone https://github.com/suchkovdaniil/String.git
+cd src
 make
 ```
 
